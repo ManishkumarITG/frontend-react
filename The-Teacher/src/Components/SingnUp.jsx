@@ -13,15 +13,11 @@ export default function Signup() {
                     <input type="password"
                         placeholder="Password"
                     />
-
-                    <input type="password"
-                        placeholder="Password"
-                    />
                     
                     <input type="Number"
                         placeholder="Phone Number"
                     />
-                    <PrimaryButton> Submit </PrimaryButton>
+                    <PrimaryButton> ragister </PrimaryButton>
                 </div>
             </form>
         </div>
